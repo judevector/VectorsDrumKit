@@ -1,6 +1,6 @@
 # VectorsDrumKit
 <h1 align="center">Hi 👋, I'm Jude Ndubuisi</h1>
-<h3 align="center">A passionate frontend developer from Nigeria,based in Dubai, United Arab Emirates</h3>
+<h3 align="center">A passionate frontend developer from Nigeria,based in the United Arab Emirates</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smartjude&label=Profile%20views&color=0e75b6&style=flat" alt="smartjude" /> </p>
 
